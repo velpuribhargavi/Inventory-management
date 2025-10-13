@@ -129,7 +129,7 @@ Data is stored in **CSV files** for easy portability and editing.
 ## 📩 Contact
 
 - 👨‍💻 **Developer:** Paila Jeevan
-- 📧 **Email:** pailajeevan21@gmail.com
+- 📧 **Email:** bhargavi.velpuri05@gmail.com
 - 🌐 **GitHub:**
 https://github.com/PailaJeevan
 
