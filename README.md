@@ -75,18 +75,26 @@ Search Product: Find products by ID or name
 Import Products: Bulk import from CSV file
 
 **2. **Billing & Sales****
-View Cart: Display current shopping cart
-Add to Cart: Add products to cart with quantities
-Remove from Cart: Remove or reduce item quantities
-Apply Discount: Add percentage or fixed discounts
-Clear Discount: Remove applied discounts
-Checkout: Complete sale and generate bill
+   View Cart: Display current shopping cart
+
+   Add to Cart: Add products to cart with quantities
+
+   Remove from Cart: Remove or reduce item quantities
+
+   Apply Discount: Add percentage or fixed 
+
+   Clear Discount: Remove applied discounts
+
+   Checkout: Complete sale and generate bill
 
 
 **3. Reports & Analytics**
    Generating Reports
+   
    Select Option 3 from main menu
+   
    Daily Sales: View transactions for specific date
+   
    Low Stock: Identify products needing restock
 
 ------------------------------------------------------------------------
