@@ -24,6 +24,21 @@ Real-time Stock Tracking: Automatic stock updates during sales
 Product Search: Find products by ID or name
 
 ------------------------------------------------------------------------
+## Data Storage
+File Formats
+inventory.csv: Stores product information
+
+Columns: product_id, name, price, stock_quantity
+
+sales.csv: Stores transaction history
+
+Columns: datetime, total_amount, discount, final_amount
+
+Bill Files: Individual transaction receipts
+
+Format: bill_YYYYMMDD_HHMMSS.[txt|csv]
+
+------------------------------------------------------------------------
 ## Billing System
 Shopping Cart: Add/remove items with quantity management
 
@@ -73,13 +88,12 @@ Clear Discount: Remove applied discounts
 Checkout: Complete sale and generate bill
 
 3. Reports & Analytics
-Sales Report: Generate sales reports for date ranges
+Generating Reports
+Select Option 3 from main menu
 
-Daily Sales: View sales for specific dates
+Daily Sales: View transactions for specific date
 
-Low Stock Alert: Identify products below threshold
-
-Product Statistics: View inventory metrics and valuation
+Low Stock: Identify products needing restock
 
 ------------------------------------------------------------------------
 
