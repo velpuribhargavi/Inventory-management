@@ -128,10 +128,10 @@ Data is stored in **CSV files** for easy portability and editing.
 ------------------------------------------------------------------------
 ## 📩 Contact
 
-- 👨‍💻 **Developer:** Paila Jeevan
+- 👨‍💻 **Developer:** Velpuri Bhargavi
 - 📧 **Email:** bhargavi.velpuri05@gmail.com
 - 🌐 **GitHub:**
-https://github.com/PailaJeevan
+https://github.com/velpuribhargavi
 
 💡 Feel free to fork, contribute, or drop a message if you have ideas to
 improve this project!
