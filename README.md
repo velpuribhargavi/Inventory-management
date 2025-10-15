@@ -2,13 +2,7 @@
 
 ## 📌 Project Overview
 
-This is a **console-based Python application** designed to help small
-shops manage their inventory, process customer orders, and generate
-receipts.
-The system keeps track of products, stock levels, and daily sales while
-providing simple reporting features --- all without requiring external
-frameworks or databases.
-Data is stored in **CSV files** for easy portability and editing.
+This is a command-line Python application built to enable small businesses to track their inventory, process sales, and generate receipts. The system maintains product information, stock quantities, and sales data, providing fundamental reporting capabilities.
 
 ------------------------------------------------------------------------
 
@@ -69,16 +63,13 @@ Data is stored in **CSV files** for easy portability and editing.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+## Project Structure
 
-    Inventory-Management-System/
-    │── backend.py      # Core business logic (inventory, sales, billing)
-    │── frontend.py     # Console UI and input/output helpers
-    │── main.py         # Entry point (menus, workflows)
-    │── products.csv    # Inventory data (auto-created if missing)
-    │── sales.csv       # Sales log (auto-created after first sale)
-    │── receipts/       # Folder to store generated bills
-
+ INVENTORY MANAGEMENT/
+│
+├── Billing system.py
+├── inventory.csv
+└── sales.csv
 ------------------------------------------------------------------------
 
 ## ▶️ How to Run
@@ -117,7 +108,7 @@ Data is stored in **CSV files** for easy portability and editing.
     totals).
 
 ------------------------------------------------------------------------
-## ✅ Key Deliverables
+## Key Deliverables
 
 -   Inventory CRUD operations
 -   Order management & billing system
