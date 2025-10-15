@@ -5,7 +5,7 @@
 This is a command-line Python application built to enable small businesses to track their inventory, process sales, and generate receipts. The system maintains product information, stock quantities, and sales data, providing fundamental reporting capabilities.
 
 ------------------------------------------------------------------------
-##Inventory Management
+## Inventory Management
 Product Management: Add, update, delete, and search products
 
 CSV Import/Export: Bulk import products from CSV files
